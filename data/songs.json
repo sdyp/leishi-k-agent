@@ -1,0 +1,678 @@
+[
+  {
+    "id": "song_001",
+    "title": "朋友",
+    "artist": "周华健",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "聚会",
+      "合唱"
+    ],
+    "difficulty": "简单",
+    "description": "经典KTV必点曲目，适合朋友聚会合唱，周华健代表作。"
+  },
+  {
+    "id": "song_002",
+    "title": "花心",
+    "artist": "周华健",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "简单",
+    "description": "周华健经典情歌，旋律优美，KTV必点。"
+  },
+  {
+    "id": "song_003",
+    "title": "让我欢喜让我忧",
+    "artist": "周华健",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "周华健代表作，情感细腻，唱出人生感悟。"
+  },
+  {
+    "id": "song_004",
+    "title": "风雨无阻",
+    "artist": "周华健",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "励志"
+    ],
+    "difficulty": "中等",
+    "description": "励志歌曲，周华健经典，适合鼓励自己。"
+  },
+  {
+    "id": "song_005",
+    "title": "其实不想走",
+    "artist": "周华健",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "周华健经典离别歌曲，感人至深。"
+  },
+  {
+    "id": "song_006",
+    "title": "青花瓷",
+    "artist": "周杰伦",
+    "language": "国语",
+    "genre": "中国风",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "周杰伦中国风经典，歌词优美如诗，方文山代表作。"
+  },
+  {
+    "id": "song_007",
+    "title": "稻香",
+    "artist": "周杰伦",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "励志"
+    ],
+    "difficulty": "中等",
+    "description": "周杰伦经典，乡村风格，励志歌曲。"
+  },
+  {
+    "id": "song_008",
+    "title": "七里香",
+    "artist": "周杰伦",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "周杰伦经典情歌，旋律优美，KTV必点。"
+  },
+  {
+    "id": "song_009",
+    "title": "夜曲",
+    "artist": "周杰伦",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "周杰伦代表作，古典与流行的完美结合。"
+  },
+  {
+    "id": "song_010",
+    "title": "告白气球",
+    "artist": "周杰伦",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "表白"
+    ],
+    "difficulty": "简单",
+    "description": "周杰伦甜蜜情歌，适合表白场景。"
+  },
+  {
+    "id": "song_011",
+    "title": "晴天",
+    "artist": "周杰伦",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "周杰伦经典，校园民谣风格，青春回忆。"
+  },
+  {
+    "id": "song_012",
+    "title": "东风破",
+    "artist": "周杰伦",
+    "language": "国语",
+    "genre": "中国风",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "周杰伦中国风开山之作，古诗词韵味。"
+  },
+  {
+    "id": "song_013",
+    "title": "听妈妈的话",
+    "artist": "周杰伦",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "感恩"
+    ],
+    "difficulty": "简单",
+    "description": "周杰伦写给妈妈的歌，温馨感人。"
+  },
+  {
+    "id": "song_014",
+    "title": "吻别",
+    "artist": "张学友",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "经典"
+    ],
+    "difficulty": "中等",
+    "description": "张学友经典代表作，KTV必点曲目。"
+  },
+  {
+    "id": "song_015",
+    "title": "一千个伤心的理由",
+    "artist": "张学友",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "张学友经典情歌，旋律动人。"
+  },
+  {
+    "id": "song_016",
+    "title": "如果这都不算爱",
+    "artist": "张学友",
+    "language": "国语",
+    "genre": "摇滚",
+    "occasion": [
+      "独唱"
+    ],
+    "difficulty": "中等",
+    "description": "张学友摇滚风格，节奏感强，适合K歌。"
+  },
+  {
+    "id": "song_017",
+    "title": "李香兰",
+    "artist": "张学友",
+    "language": "粤语",
+    "genre": "经典",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "困难",
+    "description": "张学友粤语经典，考验唱功。"
+  },
+  {
+    "id": "song_018",
+    "title": "每天爱你多一些",
+    "artist": "张学友",
+    "language": "粤语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "表白"
+    ],
+    "difficulty": "中等",
+    "description": "张学友经典粤语情歌。"
+  },
+  {
+    "id": "song_019",
+    "title": "海阔天空",
+    "artist": "Beyond",
+    "language": "粤语",
+    "genre": "摇滚",
+    "occasion": [
+      "独唱",
+      "励志"
+    ],
+    "difficulty": "困难",
+    "description": "Beyond经典粤语摇滚，高音挑战曲目。"
+  },
+  {
+    "id": "song_020",
+    "title": "光辉岁月",
+    "artist": "Beyond",
+    "language": "粤语",
+    "genre": "摇滚",
+    "occasion": [
+      "独唱",
+      "励志"
+    ],
+    "difficulty": "中等",
+    "description": "Beyond经典，致敬曼德拉。"
+  },
+  {
+    "id": "song_021",
+    "title": "真的爱你",
+    "artist": "Beyond",
+    "language": "粤语",
+    "genre": "摇滚",
+    "occasion": [
+      "合唱",
+      "感恩"
+    ],
+    "difficulty": "中等",
+    "description": "Beyond经典，献给母亲的歌曲。"
+  },
+  {
+    "id": "song_022",
+    "title": "大地",
+    "artist": "Beyond",
+    "language": "粤语",
+    "genre": "摇滚",
+    "occasion": [
+      "独唱",
+      "经典"
+    ],
+    "difficulty": "中等",
+    "description": "Beyond代表作，表达对祖国的情怀。"
+  },
+  {
+    "id": "song_023",
+    "title": "喜欢你",
+    "artist": "Beyond",
+    "language": "粤语",
+    "genre": "摇滚",
+    "occasion": [
+      "独唱",
+      "表白"
+    ],
+    "difficulty": "中等",
+    "description": "Beyond经典情歌，表达爱意。"
+  },
+  {
+    "id": "song_024",
+    "title": "月亮代表我的心",
+    "artist": "邓丽君",
+    "language": "国语",
+    "genre": "经典",
+    "occasion": [
+      "合唱",
+      "家庭"
+    ],
+    "difficulty": "简单",
+    "description": "邓丽君经典永传之作，家庭K歌首选。"
+  },
+  {
+    "id": "song_025",
+    "title": "甜蜜蜜",
+    "artist": "邓丽君",
+    "language": "国语",
+    "genre": "经典",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "简单",
+    "description": "邓丽君代表作，甜美动人。"
+  },
+  {
+    "id": "song_026",
+    "title": "我只在乎你",
+    "artist": "邓丽君",
+    "language": "国语",
+    "genre": "经典",
+    "occasion": [
+      "独唱",
+      "表白"
+    ],
+    "difficulty": "简单",
+    "description": "邓丽君经典情歌，表达真挚感情。"
+  },
+  {
+    "id": "song_027",
+    "title": "小城故事",
+    "artist": "邓丽君",
+    "language": "国语",
+    "genre": "经典",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "简单",
+    "description": "邓丽君经典，描绘小城风光。"
+  },
+  {
+    "id": "song_028",
+    "title": "但愿人长久",
+    "artist": "邓丽君",
+    "language": "国语",
+    "genre": "经典",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "邓丽君经典，苏轼词改编。"
+  },
+  {
+    "id": "song_029",
+    "title": "十年",
+    "artist": "陈奕迅",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "陈奕迅经典情歌，唱尽人生离别。"
+  },
+  {
+    "id": "song_030",
+    "title": "浮夸",
+    "artist": "陈奕迅",
+    "language": "粤语",
+    "genre": "流行",
+    "occasion": [
+      "独唱"
+    ],
+    "difficulty": "困难",
+    "description": "陈奕迅代表作，高音挑战，情绪爆发。"
+  },
+  {
+    "id": "song_031",
+    "title": "爱情转移",
+    "artist": "陈奕迅",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "陈奕迅经典，富士山下国语版。"
+  },
+  {
+    "id": "song_032",
+    "title": "红豆",
+    "artist": "王菲",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "王菲经典情歌，旋律优美。"
+  },
+  {
+    "id": "song_033",
+    "title": "匆匆那年",
+    "artist": "王菲",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "王菲代表作，青春回忆。"
+  },
+  {
+    "id": "song_034",
+    "title": "传奇",
+    "artist": "王菲",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "王菲翻唱李健作品，广为流传。"
+  },
+  {
+    "id": "song_035",
+    "title": "忘情水",
+    "artist": "刘德华",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "经典"
+    ],
+    "difficulty": "简单",
+    "description": "刘德华经典代表作，KTV必点。"
+  },
+  {
+    "id": "song_036",
+    "title": "冰雨",
+    "artist": "刘德华",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "刘德华经典情歌。"
+  },
+  {
+    "id": "song_037",
+    "title": "爱你一万年",
+    "artist": "刘德华",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "表白"
+    ],
+    "difficulty": "简单",
+    "description": "刘德华经典，适合表白。"
+  },
+  {
+    "id": "song_038",
+    "title": "小幸运",
+    "artist": "田馥甄",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "女生"
+    ],
+    "difficulty": "中等",
+    "description": "青春校园电影主题曲，深受年轻人喜爱。"
+  },
+  {
+    "id": "song_039",
+    "title": "寂寞寂寞就好",
+    "artist": "田馥甄",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "疗伤情歌，适合独唱。"
+  },
+  {
+    "id": "song_040",
+    "title": "逆光",
+    "artist": "孙燕姿",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "励志"
+    ],
+    "difficulty": "中等",
+    "description": "励志歌曲，适合练声。"
+  },
+  {
+    "id": "song_041",
+    "title": "遇见",
+    "artist": "孙燕姿",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "简单",
+    "description": "经典抒情歌曲，旋律优美。"
+  },
+  {
+    "id": "song_042",
+    "title": "童话",
+    "artist": "光良",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "简单",
+    "description": "经典情歌，音域不宽，适合初级歌手。"
+  },
+  {
+    "id": "song_043",
+    "title": "第一次",
+    "artist": "光良",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "表白"
+    ],
+    "difficulty": "简单",
+    "description": "甜蜜情歌，适合表白场景。"
+  },
+  {
+    "id": "song_044",
+    "title": "成都",
+    "artist": "赵雷",
+    "language": "国语",
+    "genre": "民谣",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "简单",
+    "description": "民谣经典，表达对成都的情感。"
+  },
+  {
+    "id": "song_045",
+    "title": "南方姑娘",
+    "artist": "赵雷",
+    "language": "国语",
+    "genre": "民谣",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "赵雷代表作，民谣风格。"
+  },
+  {
+    "id": "song_046",
+    "title": "贝加尔湖畔",
+    "artist": "李健",
+    "language": "国语",
+    "genre": "民谣",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "困难",
+    "description": "空灵民谣，需要很好的气息控制。"
+  },
+  {
+    "id": "song_047",
+    "title": "风吹麦浪",
+    "artist": "李健",
+    "language": "国语",
+    "genre": "民谣",
+    "occasion": [
+      "独唱",
+      "抒情"
+    ],
+    "difficulty": "中等",
+    "description": "李健经典，旋律优美。"
+  },
+  {
+    "id": "song_048",
+    "title": "最炫民族风",
+    "artist": "凤凰传奇",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "合唱",
+      "派对"
+    ],
+    "difficulty": "简单",
+    "description": "广场舞神曲，节奏感强，全家老少都能唱。"
+  },
+  {
+    "id": "song_049",
+    "title": "月亮之上",
+    "artist": "凤凰传奇",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "独唱",
+      "励志"
+    ],
+    "difficulty": "中等",
+    "description": "凤凰传奇经典，高音挑战。"
+  },
+  {
+    "id": "song_050",
+    "title": "小苹果",
+    "artist": "筷子兄弟",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "合唱",
+      "派对"
+    ],
+    "difficulty": "简单",
+    "description": "节奏欢快，老人小孩都喜欢，适合家庭K歌。"
+  },
+  {
+    "id": "song_051",
+    "title": "明天会更好",
+    "artist": "群星",
+    "language": "国语",
+    "genre": "公益",
+    "occasion": [
+      "合唱",
+      "家庭",
+      "聚会"
+    ],
+    "difficulty": "简单",
+    "description": "经典公益歌曲，旋律简单温馨，适合全家大合唱。"
+  },
+  {
+    "id": "song_052",
+    "title": "相亲相爱",
+    "artist": "群星",
+    "language": "国语",
+    "genre": "流行",
+    "occasion": [
+      "合唱",
+      "家庭",
+      "聚会"
+    ],
+    "difficulty": "简单",
+    "description": "家庭聚会必唱歌曲，温馨感人，适合全家合唱。"
+  }
+]

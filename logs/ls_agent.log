@@ -1,0 +1,582 @@
+{"timestamp": "2026-05-17 17:07:15,667", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-17 17:07:15,695", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-17 17:07:15,696", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-17 17:07:15,764", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 446}
+{"timestamp": "2026-05-17 17:07:15,764", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 447}
+{"timestamp": "2026-05-17 17:09:17,484", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "81454e90"}
+{"timestamp": "2026-05-17 17:09:17,491", "level": "INFO", "message": "用户问题: 金运机顶盒连电视黑屏怎么办？...", "module": "agent", "function": "chat_stream", "line": 549, "request_id": "1d9a85d6"}
+{"timestamp": "2026-05-17 17:09:17,492", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 551, "request_id": "1d9a85d6"}
+{"timestamp": "2026-05-17 17:09:17,493", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.006s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "1d9a85d6"}
+{"timestamp": "2026-05-17 17:10:41,325", "level": "INFO", "message": "用户问题: 推荐几首周华健的歌...", "module": "agent", "function": "chat_stream", "line": 549, "request_id": "36254a76"}
+{"timestamp": "2026-05-17 17:10:41,326", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 551, "request_id": "36254a76"}
+{"timestamp": "2026-05-17 17:10:41,326", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "36254a76"}
+{"timestamp": "2026-05-17 17:13:43,508", "level": "INFO", "message": "用户问题: 推荐几首周杰伦的歌...", "module": "agent", "function": "chat_stream", "line": 549, "request_id": "93839d69"}
+{"timestamp": "2026-05-17 17:13:43,508", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 551, "request_id": "93839d69"}
+{"timestamp": "2026-05-17 17:13:43,508", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "93839d69"}
+{"timestamp": "2026-05-17 17:35:06,327", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-17 17:35:06,351", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-17 17:35:06,352", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-17 17:35:06,424", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 446}
+{"timestamp": "2026-05-17 17:35:06,428", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 447}
+{"timestamp": "2026-05-17 17:35:24,182", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "0cd8ccc3"}
+{"timestamp": "2026-05-17 17:35:24,186", "level": "INFO", "message": "用户问题: 朋友 周华健 流行 经典KTV必点曲目，适合朋友聚会合唱。\n\n---\n\n追梦人 凤飞飞 经典 经典老...", "module": "agent", "function": "chat_stream", "line": 549, "request_id": "9b2a19ed"}
+{"timestamp": "2026-05-17 17:35:24,186", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 551, "request_id": "9b2a19ed"}
+{"timestamp": "2026-05-17 17:35:24,189", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.005s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "9b2a19ed"}
+{"timestamp": "2026-05-17 17:35:54,370", "level": "INFO", "message": "用户问题: 推荐几首周杰伦的歌...", "module": "agent", "function": "chat_stream", "line": 549, "request_id": "8b0c7607"}
+{"timestamp": "2026-05-17 17:35:54,371", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 551, "request_id": "8b0c7607"}
+{"timestamp": "2026-05-17 17:35:54,371", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "8b0c7607"}
+{"timestamp": "2026-05-18 09:07:36,927", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-18 09:07:36,950", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-18 09:07:36,952", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-18 09:07:37,019", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 446}
+{"timestamp": "2026-05-18 09:07:37,019", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 447}
+{"timestamp": "2026-05-18 09:08:14,230", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "e1e70476"}
+{"timestamp": "2026-05-18 09:08:14,234", "level": "INFO", "message": "用户问题: 推荐几首周杰伦的歌...", "module": "agent", "function": "chat_stream", "line": 549, "request_id": "5d61ad47"}
+{"timestamp": "2026-05-18 09:08:14,234", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 551, "request_id": "5d61ad47"}
+{"timestamp": "2026-05-18 09:08:14,235", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.004s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "5d61ad47"}
+{"timestamp": "2026-05-18 09:09:41,730", "level": "INFO", "message": "用户问题: 推荐几首张学友的歌...", "module": "agent", "function": "chat_stream", "line": 549, "request_id": "68f8b485"}
+{"timestamp": "2026-05-18 09:09:41,730", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 551, "request_id": "68f8b485"}
+{"timestamp": "2026-05-18 09:09:41,731", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "68f8b485"}
+{"timestamp": "2026-05-18 09:12:42,630", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-18 09:12:42,654", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-18 09:12:42,655", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-18 09:12:42,717", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 446}
+{"timestamp": "2026-05-18 09:12:42,717", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 447}
+{"timestamp": "2026-05-18 09:12:52,721", "level": "INFO", "message": "用户问题: 推荐几首张学友的歌...", "module": "agent", "function": "chat_stream", "line": 549, "request_id": "0e64d2cb"}
+{"timestamp": "2026-05-18 09:12:52,721", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 551, "request_id": "0e64d2cb"}
+{"timestamp": "2026-05-18 09:12:52,721", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "0e64d2cb"}
+{"timestamp": "2026-05-18 09:14:14,543", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-18 09:14:14,570", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-18 09:14:14,571", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-18 09:14:14,640", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 446}
+{"timestamp": "2026-05-18 09:14:14,640", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 447}
+{"timestamp": "2026-05-18 09:14:25,390", "level": "INFO", "message": "用户问题: 推荐几首张学友的歌...", "module": "agent", "function": "chat_stream", "line": 549, "request_id": "a178e5c2"}
+{"timestamp": "2026-05-18 09:14:25,390", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 551, "request_id": "a178e5c2"}
+{"timestamp": "2026-05-18 09:14:25,392", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "a178e5c2"}
+{"timestamp": "2026-05-18 09:28:21,580", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-18 09:28:21,607", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-18 09:28:21,608", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 159}
+{"timestamp": "2026-05-18 09:28:21,674", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 446}
+{"timestamp": "2026-05-18 09:28:21,674", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 447}
+{"timestamp": "2026-05-18 09:28:52,329", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "ab897d66"}
+{"timestamp": "2026-05-18 09:28:52,335", "level": "INFO", "message": "用户问题: 帮我推荐几首周杰伦的歌...", "module": "agent", "function": "chat_stream", "line": 549, "request_id": "4a62bb76"}
+{"timestamp": "2026-05-18 09:28:52,335", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 551, "request_id": "4a62bb76"}
+{"timestamp": "2026-05-18 09:28:52,336", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.005s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 488, "request_id": "4a62bb76"}
+{"timestamp": "2026-05-18 10:17:06,373", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:17:06,397", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:17:06,398", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:17:06,461", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 493}
+{"timestamp": "2026-05-18 10:17:06,463", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 494}
+{"timestamp": "2026-05-18 10:27:08,765", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:27:08,789", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:27:08,789", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:27:08,803", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 313}
+{"timestamp": "2026-05-18 10:27:09,027", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 524}
+{"timestamp": "2026-05-18 10:27:09,028", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 525}
+{"timestamp": "2026-05-18 10:27:19,416", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 566, "request_id": "11907ae0"}
+{"timestamp": "2026-05-18 10:27:19,423", "level": "INFO", "message": "用户问题: 帮我推荐几首周杰伦的歌...", "module": "agent", "function": "chat_stream", "line": 627, "request_id": "5cf82f30"}
+{"timestamp": "2026-05-18 10:27:19,423", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 629, "request_id": "5cf82f30"}
+{"timestamp": "2026-05-18 10:27:19,424", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 566, "request_id": "5cf82f30"}
+{"timestamp": "2026-05-18 10:27:19,470", "level": "ERROR", "message": "检索失败: 'EnsembleRetriever' object has no attribute 'get_relevant_documents'", "module": "agent", "function": "robust_search", "line": 592, "request_id": "5cf82f30"}
+{"timestamp": "2026-05-18 10:29:28,177", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:29:28,201", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:29:28,202", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:29:28,214", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 313}
+{"timestamp": "2026-05-18 10:29:28,268", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 524}
+{"timestamp": "2026-05-18 10:29:28,268", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 525}
+{"timestamp": "2026-05-18 10:29:50,733", "level": "INFO", "message": "用户问题: 帮我推荐几首周杰伦的歌...", "module": "agent", "function": "chat_stream", "line": 627, "request_id": "ea5fc5db"}
+{"timestamp": "2026-05-18 10:29:50,733", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 629, "request_id": "ea5fc5db"}
+{"timestamp": "2026-05-18 10:29:50,735", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.004s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 566, "request_id": "ea5fc5db"}
+{"timestamp": "2026-05-18 10:30:50,687", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:30:50,711", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:30:50,711", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:30:50,723", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 313}
+{"timestamp": "2026-05-18 10:30:50,775", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 525}
+{"timestamp": "2026-05-18 10:30:50,775", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 526}
+{"timestamp": "2026-05-18 10:31:04,712", "level": "INFO", "message": "用户问题: 帮我推荐几首周杰伦的歌...", "module": "agent", "function": "chat_stream", "line": 628, "request_id": "c7b9f1de"}
+{"timestamp": "2026-05-18 10:31:04,712", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 630, "request_id": "c7b9f1de"}
+{"timestamp": "2026-05-18 10:31:04,713", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.005s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 567, "request_id": "c7b9f1de"}
+{"timestamp": "2026-05-18 10:33:12,514", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:33:12,541", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:33:12,541", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:33:12,553", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 313}
+{"timestamp": "2026-05-18 10:33:12,607", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 527}
+{"timestamp": "2026-05-18 10:33:12,608", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 528}
+{"timestamp": "2026-05-18 10:33:22,344", "level": "INFO", "message": "用户问题: 帮我推荐几首周杰伦的歌...", "module": "agent", "function": "chat_stream", "line": 630, "request_id": "edd488db"}
+{"timestamp": "2026-05-18 10:33:22,344", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 632, "request_id": "edd488db"}
+{"timestamp": "2026-05-18 10:33:22,345", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 569, "request_id": "edd488db"}
+{"timestamp": "2026-05-18 10:36:41,018", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:36:41,042", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:36:41,043", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:36:41,055", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 313}
+{"timestamp": "2026-05-18 10:36:41,109", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 525}
+{"timestamp": "2026-05-18 10:36:41,110", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 526}
+{"timestamp": "2026-05-18 10:36:50,511", "level": "INFO", "message": "用户问题: 帮我推荐几首周杰伦的歌...", "module": "agent", "function": "chat_stream", "line": 628, "request_id": "6b9e134d"}
+{"timestamp": "2026-05-18 10:36:50,511", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 630, "request_id": "6b9e134d"}
+{"timestamp": "2026-05-18 10:36:50,512", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.004s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 567, "request_id": "6b9e134d"}
+{"timestamp": "2026-05-18 10:42:22,393", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:42:22,416", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:42:22,416", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:42:22,428", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 313}
+{"timestamp": "2026-05-18 10:42:22,482", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 507}
+{"timestamp": "2026-05-18 10:42:22,482", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 508}
+{"timestamp": "2026-05-18 10:42:48,189", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 549, "request_id": "0287a5c7"}
+{"timestamp": "2026-05-18 10:42:48,194", "level": "INFO", "message": "用户问题: 帮我推荐几首周杰伦的歌曲...", "module": "agent", "function": "chat_stream", "line": 610, "request_id": "8672d273"}
+{"timestamp": "2026-05-18 10:42:48,194", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 612, "request_id": "8672d273"}
+{"timestamp": "2026-05-18 10:42:48,195", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 549, "request_id": "8672d273"}
+{"timestamp": "2026-05-18 10:43:38,609", "level": "INFO", "message": "用户问题: 帮我推荐几首张国荣的歌曲...", "module": "agent", "function": "chat_stream", "line": 610, "request_id": "fb986f06"}
+{"timestamp": "2026-05-18 10:43:38,609", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 612, "request_id": "fb986f06"}
+{"timestamp": "2026-05-18 10:43:38,609", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 549, "request_id": "fb986f06"}
+{"timestamp": "2026-05-18 10:46:56,746", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:46:56,771", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:46:56,771", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:46:56,783", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 313}
+{"timestamp": "2026-05-18 10:46:56,836", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 514}
+{"timestamp": "2026-05-18 10:46:56,837", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 515}
+{"timestamp": "2026-05-18 10:47:14,364", "level": "INFO", "message": "用户问题: 帮我推荐几首张国荣的歌曲...", "module": "agent", "function": "chat_stream", "line": 617, "request_id": "3135c6a5"}
+{"timestamp": "2026-05-18 10:47:14,364", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 619, "request_id": "3135c6a5"}
+{"timestamp": "2026-05-18 10:47:14,365", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "3135c6a5"}
+{"timestamp": "2026-05-18 10:48:59,206", "level": "INFO", "message": "用户问题: 我的金运机顶盒连上电视后画面是黑的，雷石 K 歌打不开...", "module": "agent", "function": "chat_stream", "line": 617, "request_id": "bc281fcc"}
+{"timestamp": "2026-05-18 10:48:59,207", "level": "INFO", "message": "路由结果: composite", "module": "agent", "function": "chat_stream", "line": 619, "request_id": "bc281fcc"}
+{"timestamp": "2026-05-18 10:48:59,207", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "bc281fcc"}
+{"timestamp": "2026-05-18 10:49:47,303", "level": "INFO", "message": "用户问题: 家里有老人和小孩，推荐几首适合全家合唱的简单歌曲...", "module": "agent", "function": "chat_stream", "line": 617, "request_id": "c06cd02d"}
+{"timestamp": "2026-05-18 10:49:47,303", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 619, "request_id": "c06cd02d"}
+{"timestamp": "2026-05-18 10:49:47,303", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "c06cd02d"}
+{"timestamp": "2026-05-18 10:50:40,505", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:50:40,532", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:50:40,532", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:50:40,546", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 313}
+{"timestamp": "2026-05-18 10:50:40,613", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 514}
+{"timestamp": "2026-05-18 10:50:40,614", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 515}
+{"timestamp": "2026-05-18 10:50:48,573", "level": "INFO", "message": "用户问题: 我的金运机顶盒连上电视后画面是黑的，雷石 K 歌打不开...", "module": "agent", "function": "chat_stream", "line": 617, "request_id": "015f0c77"}
+{"timestamp": "2026-05-18 10:50:48,573", "level": "INFO", "message": "路由结果: composite", "module": "agent", "function": "chat_stream", "line": 619, "request_id": "015f0c77"}
+{"timestamp": "2026-05-18 10:50:48,574", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.004s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "015f0c77"}
+{"timestamp": "2026-05-18 10:52:32,662", "level": "INFO", "message": "用户问题: 家里有老人和小孩，推荐几首适合全家合唱的简单歌曲...", "module": "agent", "function": "chat_stream", "line": 617, "request_id": "69031bc2"}
+{"timestamp": "2026-05-18 10:52:32,662", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 619, "request_id": "69031bc2"}
+{"timestamp": "2026-05-18 10:52:32,663", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "69031bc2"}
+{"timestamp": "2026-05-18 10:54:51,519", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:54:51,543", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:54:51,544", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:54:51,554", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 313}
+{"timestamp": "2026-05-18 10:54:51,609", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 514}
+{"timestamp": "2026-05-18 10:54:51,610", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 515}
+{"timestamp": "2026-05-18 10:55:08,803", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "31e4ab5c"}
+{"timestamp": "2026-05-18 10:55:08,807", "level": "INFO", "message": "用户问题: 家里有老人和小孩，推荐几首适合全家合唱的简单歌曲...", "module": "agent", "function": "chat_stream", "line": 617, "request_id": "7d641a74"}
+{"timestamp": "2026-05-18 10:55:08,808", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 619, "request_id": "7d641a74"}
+{"timestamp": "2026-05-18 10:55:08,808", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "7d641a74"}
+{"timestamp": "2026-05-18 10:56:01,051", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:56:01,073", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:56:01,073", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 10:56:01,085", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 313}
+{"timestamp": "2026-05-18 10:56:01,141", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 514}
+{"timestamp": "2026-05-18 10:56:01,141", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 515}
+{"timestamp": "2026-05-18 10:56:20,828", "level": "INFO", "message": "用户问题: 家里有老人和小孩，推荐几首适合全家合唱的简单歌曲...", "module": "agent", "function": "chat_stream", "line": 617, "request_id": "05d1871b"}
+{"timestamp": "2026-05-18 10:56:20,829", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 619, "request_id": "05d1871b"}
+{"timestamp": "2026-05-18 10:56:20,829", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "05d1871b"}
+{"timestamp": "2026-05-18 11:14:05,337", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 11:14:05,362", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 11:14:05,363", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 11:14:05,375", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 313}
+{"timestamp": "2026-05-18 11:14:05,436", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 514}
+{"timestamp": "2026-05-18 11:14:05,436", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 515}
+{"timestamp": "2026-05-18 11:14:36,652", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "6093ed74"}
+{"timestamp": "2026-05-18 11:14:36,657", "level": "INFO", "message": "用户问题: 金运机顶盒连电视黑屏怎么办？...", "module": "agent", "function": "chat_stream", "line": 617, "request_id": "e705a884"}
+{"timestamp": "2026-05-18 11:14:36,657", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 619, "request_id": "e705a884"}
+{"timestamp": "2026-05-18 11:14:36,658", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "e705a884"}
+{"timestamp": "2026-05-18 11:15:11,703", "level": "INFO", "message": "用户问题: 美视清智能音响蓝牙怎么配对？...", "module": "agent", "function": "chat_stream", "line": 617, "request_id": "453a9ae4"}
+{"timestamp": "2026-05-18 11:15:11,703", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 619, "request_id": "453a9ae4"}
+{"timestamp": "2026-05-18 11:15:11,703", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "453a9ae4"}
+{"timestamp": "2026-05-18 11:15:32,749", "level": "INFO", "message": "用户问题: AI评分功能怎么开启？...", "module": "agent", "function": "chat_stream", "line": 617, "request_id": "64251888"}
+{"timestamp": "2026-05-18 11:15:32,750", "level": "INFO", "message": "关键词无匹配，调用 LLM 兜底", "module": "agent", "function": "get_route_tag", "line": 287, "request_id": "64251888"}
+{"timestamp": "2026-05-18 11:15:33,491", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 619, "request_id": "64251888"}
+{"timestamp": "2026-05-18 11:15:33,492", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.744s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "64251888"}
+{"timestamp": "2026-05-18 11:15:56,390", "level": "INFO", "message": "用户问题: 推荐几首周华健的歌...", "module": "agent", "function": "chat_stream", "line": 617, "request_id": "9994aedf"}
+{"timestamp": "2026-05-18 11:15:56,390", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 619, "request_id": "9994aedf"}
+{"timestamp": "2026-05-18 11:15:56,391", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "9994aedf"}
+{"timestamp": "2026-05-18 11:16:49,374", "level": "INFO", "message": "用户问题: 推荐几首周杰伦的歌...", "module": "agent", "function": "chat_stream", "line": 617, "request_id": "060c01f9"}
+{"timestamp": "2026-05-18 11:16:49,374", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 619, "request_id": "060c01f9"}
+{"timestamp": "2026-05-18 11:16:49,374", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "060c01f9"}
+{"timestamp": "2026-05-18 11:17:08,565", "level": "INFO", "message": "用户问题: 家里有老人和小孩，推荐几首适合全家合唱的简单歌曲...", "module": "agent", "function": "chat_stream", "line": 617, "request_id": "f1d9250f"}
+{"timestamp": "2026-05-18 11:17:08,565", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 619, "request_id": "f1d9250f"}
+{"timestamp": "2026-05-18 11:17:08,566", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 556, "request_id": "f1d9250f"}
+{"timestamp": "2026-05-18 11:21:58,165", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 11:21:58,189", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 11:21:58,190", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 11:21:58,201", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 313}
+{"timestamp": "2026-05-18 11:21:58,258", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 527}
+{"timestamp": "2026-05-18 11:21:58,259", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 528}
+{"timestamp": "2026-05-18 11:22:08,331", "level": "INFO", "message": "用户问题: 家里有老人和小孩，推荐几首适合全家合唱的简单歌曲...", "module": "agent", "function": "chat_stream", "line": 630, "request_id": "c333ffac"}
+{"timestamp": "2026-05-18 11:22:08,331", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 632, "request_id": "c333ffac"}
+{"timestamp": "2026-05-18 11:22:08,332", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 569, "request_id": "c333ffac"}
+{"timestamp": "2026-05-18 11:23:07,800", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 11:23:07,824", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 11:23:07,824", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 162}
+{"timestamp": "2026-05-18 11:23:07,837", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 313}
+{"timestamp": "2026-05-18 11:23:07,891", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 545}
+{"timestamp": "2026-05-18 11:23:07,892", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 546}
+{"timestamp": "2026-05-18 11:23:14,228", "level": "INFO", "message": "用户问题: 家里有老人和小孩，推荐几首适合全家合唱的简单歌曲...", "module": "agent", "function": "chat_stream", "line": 648, "request_id": "420b94b0"}
+{"timestamp": "2026-05-18 11:23:14,228", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 650, "request_id": "420b94b0"}
+{"timestamp": "2026-05-18 11:23:14,228", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 587, "request_id": "420b94b0"}
+{"timestamp": "2026-05-18 11:31:56,142", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:31:56,165", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:31:56,166", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:31:56,176", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 322}
+{"timestamp": "2026-05-18 11:31:56,231", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 554}
+{"timestamp": "2026-05-18 11:31:56,231", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 555}
+{"timestamp": "2026-05-18 11:32:04,626", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 596, "request_id": "5fb77809"}
+{"timestamp": "2026-05-18 11:32:04,630", "level": "INFO", "message": "用户问题: 家里有老人和小孩，推荐几首适合全家合唱的简单歌曲...", "module": "agent", "function": "chat_stream", "line": 657, "request_id": "afa232ec"}
+{"timestamp": "2026-05-18 11:32:04,630", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 659, "request_id": "afa232ec"}
+{"timestamp": "2026-05-18 11:32:04,631", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 596, "request_id": "afa232ec"}
+{"timestamp": "2026-05-18 11:44:04,147", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:44:04,171", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:44:04,172", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:44:04,183", "level": "INFO", "message": "BM25 检索器构建完成", "module": "agent", "function": "<module>", "line": 322}
+{"timestamp": "2026-05-18 11:44:04,238", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 555}
+{"timestamp": "2026-05-18 11:44:04,239", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 556}
+{"timestamp": "2026-05-18 11:44:36,082", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:44:36,115", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:44:36,117", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:44:36,204", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 549}
+{"timestamp": "2026-05-18 11:44:36,204", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 550}
+{"timestamp": "2026-05-18 11:46:30,727", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:46:30,750", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:46:30,751", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:46:30,816", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 549}
+{"timestamp": "2026-05-18 11:46:30,816", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 550}
+{"timestamp": "2026-05-18 11:46:50,480", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:46:50,505", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:46:50,505", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 11:46:50,569", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 539}
+{"timestamp": "2026-05-18 11:46:50,570", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 540}
+{"timestamp": "2026-05-18 11:46:57,632", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 581, "request_id": "fc1d1289"}
+{"timestamp": "2026-05-18 11:46:57,638", "level": "INFO", "message": "用户问题: 家里有老人和小孩，推荐几首适合全家合唱的简单歌曲...", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "6cb4470e"}
+{"timestamp": "2026-05-18 11:46:57,639", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 644, "request_id": "6cb4470e"}
+{"timestamp": "2026-05-18 11:46:57,639", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 581, "request_id": "6cb4470e"}
+{"timestamp": "2026-05-18 11:47:29,525", "level": "INFO", "message": "用户问题: 华东地区Q1智能音响出货量怎么样？...", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "4b1a14d0"}
+{"timestamp": "2026-05-18 11:47:29,526", "level": "INFO", "message": "路由结果: composite", "module": "agent", "function": "chat_stream", "line": 644, "request_id": "4b1a14d0"}
+{"timestamp": "2026-05-18 11:47:29,526", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 581, "request_id": "4b1a14d0"}
+{"timestamp": "2026-05-18 11:57:56,550", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 581, "request_id": "89fe79c2"}
+{"timestamp": "2026-05-18 11:57:56,553", "level": "INFO", "message": "用户问题: 华东地区 Q1 智能音响出货量同比怎么样？...", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "da4f6567"}
+{"timestamp": "2026-05-18 11:57:56,553", "level": "INFO", "message": "路由结果: composite", "module": "agent", "function": "chat_stream", "line": 644, "request_id": "da4f6567"}
+{"timestamp": "2026-05-18 11:57:56,553", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 581, "request_id": "da4f6567"}
+{"timestamp": "2026-05-18 11:58:23,845", "level": "INFO", "message": "用户问题: 西南区的渠道商有哪些空白点？...", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "f9f9cd46"}
+{"timestamp": "2026-05-18 11:58:23,846", "level": "INFO", "message": "路由结果: sale", "module": "agent", "function": "chat_stream", "line": 644, "request_id": "f9f9cd46"}
+{"timestamp": "2026-05-18 11:58:23,846", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 581, "request_id": "f9f9cd46"}
+{"timestamp": "2026-05-18 11:58:42,087", "level": "INFO", "message": "用户问题: 最近美视清蓝牙连接投诉比较多，帮我整理常见故障排查步骤，顺便看看这款机型在华南区的当月出货趋势...", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "0a33c056"}
+{"timestamp": "2026-05-18 11:58:42,087", "level": "INFO", "message": "路由结果: composite", "module": "agent", "function": "chat_stream", "line": 644, "request_id": "0a33c056"}
+{"timestamp": "2026-05-18 11:58:42,088", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 581, "request_id": "0a33c056"}
+{"timestamp": "2026-05-18 11:59:57,483", "level": "INFO", "message": "用户问题: 推荐张国荣的歌...", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "e082d19a"}
+{"timestamp": "2026-05-18 11:59:57,483", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 644, "request_id": "e082d19a"}
+{"timestamp": "2026-05-18 11:59:57,483", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 581, "request_id": "e082d19a"}
+{"timestamp": "2026-05-18 12:00:04,988", "level": "INFO", "message": "用户问题: 推荐张国荣的歌...", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "dc0c207c"}
+{"timestamp": "2026-05-18 12:00:04,988", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 644, "request_id": "dc0c207c"}
+{"timestamp": "2026-05-18 12:00:04,989", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 581, "request_id": "dc0c207c"}
+{"timestamp": "2026-05-18 12:00:09,135", "level": "INFO", "message": "用户问题: 推荐张国荣的歌...", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "391a934b"}
+{"timestamp": "2026-05-18 12:00:09,135", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 644, "request_id": "391a934b"}
+{"timestamp": "2026-05-18 12:00:09,135", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 581, "request_id": "391a934b"}
+{"timestamp": "2026-05-18 12:00:41,388", "level": "INFO", "message": "用户问题: 我要报修...", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "d60dab9c"}
+{"timestamp": "2026-05-18 12:00:41,388", "level": "INFO", "message": "命中工单关键词: 报修", "module": "agent", "function": "route_tag", "line": 256, "request_id": "d60dab9c"}
+{"timestamp": "2026-05-18 12:00:41,388", "level": "INFO", "message": "路由结果: ticket", "module": "agent", "function": "chat_stream", "line": 644, "request_id": "d60dab9c"}
+{"timestamp": "2026-05-18 12:00:41,389", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 581, "request_id": "d60dab9c"}
+{"timestamp": "2026-05-18 12:01:03,934", "level": "INFO", "message": "用户问题: 修不了，怎么办...", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "a78bd90c"}
+{"timestamp": "2026-05-18 12:01:03,934", "level": "INFO", "message": "关键词无匹配，调用 LLM 兜底", "module": "agent", "function": "get_route_tag", "line": 296, "request_id": "a78bd90c"}
+{"timestamp": "2026-05-18 12:01:04,617", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 644, "request_id": "a78bd90c"}
+{"timestamp": "2026-05-18 12:01:04,617", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.684s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 581, "request_id": "a78bd90c"}
+{"timestamp": "2026-05-18 12:16:39,014", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:16:39,038", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:16:39,039", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:16:39,102", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 546}
+{"timestamp": "2026-05-18 12:16:39,103", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 547}
+{"timestamp": "2026-05-18 12:16:45,841", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 588, "request_id": "eadb508f"}
+{"timestamp": "2026-05-18 12:16:45,846", "level": "INFO", "message": "用户问题: 修不了，怎么办...", "module": "agent", "function": "chat_stream", "line": 649, "request_id": "7173e91e"}
+{"timestamp": "2026-05-18 12:16:45,847", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "7173e91e"}
+{"timestamp": "2026-05-18 12:16:46,599", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 651, "request_id": "7173e91e"}
+{"timestamp": "2026-05-18 12:16:46,600", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.756s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 588, "request_id": "7173e91e"}
+{"timestamp": "2026-05-18 12:18:44,163", "level": "INFO", "message": "用户问题: 明天天气怎么样...", "module": "agent", "function": "chat_stream", "line": 649, "request_id": "f08af984"}
+{"timestamp": "2026-05-18 12:18:44,164", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "f08af984"}
+{"timestamp": "2026-05-18 12:18:45,209", "level": "INFO", "message": "路由结果: other", "module": "agent", "function": "chat_stream", "line": 651, "request_id": "f08af984"}
+{"timestamp": "2026-05-18 12:18:45,209", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 1.047s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 588, "request_id": "f08af984"}
+{"timestamp": "2026-05-18 12:19:09,382", "level": "INFO", "message": "用户问题: 我上个问题是什么...", "module": "agent", "function": "chat_stream", "line": 649, "request_id": "e648d886"}
+{"timestamp": "2026-05-18 12:19:09,382", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "e648d886"}
+{"timestamp": "2026-05-18 12:19:10,017", "level": "INFO", "message": "路由结果: other", "module": "agent", "function": "chat_stream", "line": 651, "request_id": "e648d886"}
+{"timestamp": "2026-05-18 12:19:10,018", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.637s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 588, "request_id": "e648d886"}
+{"timestamp": "2026-05-18 12:22:56,269", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:22:56,297", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:22:56,298", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:22:56,382", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 547}
+{"timestamp": "2026-05-18 12:22:56,382", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 548}
+{"timestamp": "2026-05-18 12:22:58,484", "level": "INFO", "message": "用户问题: 明天天气怎么样...", "module": "agent", "function": "chat_stream", "line": 650, "request_id": "8989ca74"}
+{"timestamp": "2026-05-18 12:22:58,485", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "8989ca74"}
+{"timestamp": "2026-05-18 12:23:00,274", "level": "INFO", "message": "路由结果: other", "module": "agent", "function": "chat_stream", "line": 652, "request_id": "8989ca74"}
+{"timestamp": "2026-05-18 12:23:00,275", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 1.792s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "8989ca74"}
+{"timestamp": "2026-05-18 12:23:00,386", "level": "ERROR", "message": "检索失败: Error code: 400 - {'error': {'message': \"An assistant message with 'tool_calls' must be followed by tool messages responding to each 'tool_call_id'. (insufficient tool messages following tool_calls message)\", 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}", "module": "agent", "function": "robust_search", "line": 615, "request_id": "8989ca74"}
+{"timestamp": "2026-05-18 12:23:43,139", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:23:43,168", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:23:43,170", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:23:43,247", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 547}
+{"timestamp": "2026-05-18 12:23:43,248", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 548}
+{"timestamp": "2026-05-18 12:23:48,619", "level": "INFO", "message": "用户问题: 明天天气怎么样...", "module": "agent", "function": "chat_stream", "line": 650, "request_id": "5a8288a5"}
+{"timestamp": "2026-05-18 12:23:48,619", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "5a8288a5"}
+{"timestamp": "2026-05-18 12:23:49,204", "level": "INFO", "message": "路由结果: other", "module": "agent", "function": "chat_stream", "line": 652, "request_id": "5a8288a5"}
+{"timestamp": "2026-05-18 12:23:49,206", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.590s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "5a8288a5"}
+{"timestamp": "2026-05-18 12:23:57,858", "level": "INFO", "message": "用户问题: 我刚刚问的什么...", "module": "agent", "function": "chat_stream", "line": 650, "request_id": "ebe4fc94"}
+{"timestamp": "2026-05-18 12:23:57,859", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "ebe4fc94"}
+{"timestamp": "2026-05-18 12:23:58,499", "level": "INFO", "message": "路由结果: other", "module": "agent", "function": "chat_stream", "line": 652, "request_id": "ebe4fc94"}
+{"timestamp": "2026-05-18 12:23:58,499", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.642s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "ebe4fc94"}
+{"timestamp": "2026-05-18 12:24:50,429", "level": "INFO", "message": "用户问题: 我的机顶盒出问题了...", "module": "agent", "function": "chat_stream", "line": 650, "request_id": "84141079"}
+{"timestamp": "2026-05-18 12:24:50,429", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 652, "request_id": "84141079"}
+{"timestamp": "2026-05-18 12:24:50,430", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "84141079"}
+{"timestamp": "2026-05-18 12:24:56,909", "level": "INFO", "message": "用户问题: 修不了怎么办...", "module": "agent", "function": "chat_stream", "line": 650, "request_id": "ffe73306"}
+{"timestamp": "2026-05-18 12:24:56,909", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "ffe73306"}
+{"timestamp": "2026-05-18 12:24:57,719", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 652, "request_id": "ffe73306"}
+{"timestamp": "2026-05-18 12:24:57,720", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.810s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "ffe73306"}
+{"timestamp": "2026-05-18 12:31:53,629", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:31:53,654", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:31:53,654", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:31:53,720", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 547}
+{"timestamp": "2026-05-18 12:31:53,721", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 548}
+{"timestamp": "2026-05-18 12:31:59,801", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "2cff1768"}
+{"timestamp": "2026-05-18 12:31:59,805", "level": "INFO", "message": "用户问题: 修不了怎么办...", "module": "agent", "function": "chat_stream", "line": 652, "request_id": "96e7cb64"}
+{"timestamp": "2026-05-18 12:31:59,806", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "96e7cb64"}
+{"timestamp": "2026-05-18 12:32:00,445", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 654, "request_id": "96e7cb64"}
+{"timestamp": "2026-05-18 12:32:00,448", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.645s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "96e7cb64"}
+{"timestamp": "2026-05-18 12:32:17,987", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:32:18,010", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:32:18,011", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:32:18,074", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 547}
+{"timestamp": "2026-05-18 12:32:18,075", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 548}
+{"timestamp": "2026-05-18 12:33:30,539", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 422", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "81918946"}
+{"timestamp": "2026-05-18 12:43:03,372", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:43:03,398", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:43:03,399", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:43:03,471", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 547}
+{"timestamp": "2026-05-18 12:43:03,471", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 548}
+{"timestamp": "2026-05-18 12:43:12,574", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "e097251f"}
+{"timestamp": "2026-05-18 12:43:12,578", "level": "INFO", "message": "用户问题: 我的机顶盒出问题了...", "module": "agent", "function": "chat_stream", "line": 658, "request_id": "17a1fcbf"}
+{"timestamp": "2026-05-18 12:43:12,578", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 660, "request_id": "17a1fcbf"}
+{"timestamp": "2026-05-18 12:43:12,579", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "17a1fcbf"}
+{"timestamp": "2026-05-18 12:43:18,355", "level": "INFO", "message": "用户问题: 修不了怎么办...", "module": "agent", "function": "chat_stream", "line": 658, "request_id": "919cdce9"}
+{"timestamp": "2026-05-18 12:43:18,355", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "919cdce9"}
+{"timestamp": "2026-05-18 12:43:18,941", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 660, "request_id": "919cdce9"}
+{"timestamp": "2026-05-18 12:43:18,941", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.588s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "919cdce9"}
+{"timestamp": "2026-05-18 12:47:21,311", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:47:21,334", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:47:21,335", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:47:21,400", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 547}
+{"timestamp": "2026-05-18 12:47:21,401", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 548}
+{"timestamp": "2026-05-18 12:47:31,440", "level": "INFO", "message": "用户问题: 我的机顶盒出问题了...", "module": "agent", "function": "chat_stream", "line": 650, "request_id": "f4ead1b2"}
+{"timestamp": "2026-05-18 12:47:31,440", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 652, "request_id": "f4ead1b2"}
+{"timestamp": "2026-05-18 12:47:31,441", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "f4ead1b2"}
+{"timestamp": "2026-05-18 12:47:42,803", "level": "INFO", "message": "用户问题: 修不了怎么办...", "module": "agent", "function": "chat_stream", "line": 650, "request_id": "5e58797c"}
+{"timestamp": "2026-05-18 12:47:42,803", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "5e58797c"}
+{"timestamp": "2026-05-18 12:47:43,348", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 652, "request_id": "5e58797c"}
+{"timestamp": "2026-05-18 12:47:43,349", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.547s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "5e58797c"}
+{"timestamp": "2026-05-18 12:48:30,290", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:48:30,316", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:48:30,317", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:48:30,384", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 547}
+{"timestamp": "2026-05-18 12:48:30,385", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 548}
+{"timestamp": "2026-05-18 12:48:33,237", "level": "INFO", "message": "用户问题: 我的机顶盒出问题了...", "module": "agent", "function": "chat_stream", "line": 650, "request_id": "e39d249b"}
+{"timestamp": "2026-05-18 12:48:33,237", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 652, "request_id": "e39d249b"}
+{"timestamp": "2026-05-18 12:48:33,238", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.005s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "e39d249b"}
+{"timestamp": "2026-05-18 12:49:51,014", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:49:51,040", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:49:51,041", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:49:51,107", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 547}
+{"timestamp": "2026-05-18 12:49:51,107", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 548}
+{"timestamp": "2026-05-18 12:50:04,170", "level": "INFO", "message": "用户问题: 我的机顶盒出问题了...", "module": "agent", "function": "chat_stream", "line": 644, "request_id": "62715456"}
+{"timestamp": "2026-05-18 12:50:04,170", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 646, "request_id": "62715456"}
+{"timestamp": "2026-05-18 12:50:04,171", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.004s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "62715456"}
+{"timestamp": "2026-05-18 12:50:30,292", "level": "INFO", "message": "用户问题: 修不了怎么办...", "module": "agent", "function": "chat_stream", "line": 644, "request_id": "2611ee2e"}
+{"timestamp": "2026-05-18 12:50:30,292", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "2611ee2e"}
+{"timestamp": "2026-05-18 12:50:30,979", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 646, "request_id": "2611ee2e"}
+{"timestamp": "2026-05-18 12:50:30,981", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.691s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "2611ee2e"}
+{"timestamp": "2026-05-18 12:50:49,323", "level": "INFO", "message": "用户问题: 报修...", "module": "agent", "function": "chat_stream", "line": 644, "request_id": "32c341e0"}
+{"timestamp": "2026-05-18 12:50:49,323", "level": "INFO", "message": "命中工单关键词: 报修", "module": "agent", "function": "route_tag", "line": 256, "request_id": "32c341e0"}
+{"timestamp": "2026-05-18 12:50:49,323", "level": "INFO", "message": "路由结果: ticket", "module": "agent", "function": "chat_stream", "line": 646, "request_id": "32c341e0"}
+{"timestamp": "2026-05-18 12:50:49,324", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "32c341e0"}
+{"timestamp": "2026-05-18 12:51:38,758", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:51:38,782", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:51:38,783", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:51:38,847", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 547}
+{"timestamp": "2026-05-18 12:51:38,847", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 548}
+{"timestamp": "2026-05-18 12:51:47,458", "level": "INFO", "message": "用户问题: 我的机顶盒出问题了...", "module": "agent", "function": "chat_stream", "line": 658, "request_id": "8fa3dc81"}
+{"timestamp": "2026-05-18 12:51:47,458", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 660, "request_id": "8fa3dc81"}
+{"timestamp": "2026-05-18 12:51:47,458", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "8fa3dc81"}
+{"timestamp": "2026-05-18 12:52:09,340", "level": "INFO", "message": "用户问题: 报修...", "module": "agent", "function": "chat_stream", "line": 658, "request_id": "657b39dd"}
+{"timestamp": "2026-05-18 12:52:09,340", "level": "INFO", "message": "命中工单关键词: 报修", "module": "agent", "function": "route_tag", "line": 256, "request_id": "657b39dd"}
+{"timestamp": "2026-05-18 12:52:09,340", "level": "INFO", "message": "路由结果: ticket", "module": "agent", "function": "chat_stream", "line": 660, "request_id": "657b39dd"}
+{"timestamp": "2026-05-18 12:52:09,341", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "657b39dd"}
+{"timestamp": "2026-05-18 12:52:21,796", "level": "INFO", "message": "用户问题: 我刚刚问的什么...", "module": "agent", "function": "chat_stream", "line": 658, "request_id": "61056a66"}
+{"timestamp": "2026-05-18 12:52:21,798", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "61056a66"}
+{"timestamp": "2026-05-18 12:52:22,444", "level": "INFO", "message": "路由结果: other", "module": "agent", "function": "chat_stream", "line": 660, "request_id": "61056a66"}
+{"timestamp": "2026-05-18 12:52:22,445", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.649s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "61056a66"}
+{"timestamp": "2026-05-18 12:53:21,028", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "337858f3"}
+{"timestamp": "2026-05-18 12:53:21,035", "level": "INFO", "message": "用户问题: 机顶盒没有网怎么办...", "module": "agent", "function": "chat_stream", "line": 658, "request_id": "1fbde5d7"}
+{"timestamp": "2026-05-18 12:53:21,035", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 660, "request_id": "1fbde5d7"}
+{"timestamp": "2026-05-18 12:53:21,035", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "1fbde5d7"}
+{"timestamp": "2026-05-18 12:58:52,564", "level": "INFO", "message": "用户问题: 帮我推荐几首张国荣的歌...", "module": "agent", "function": "chat_stream", "line": 658, "request_id": "eef75fec"}
+{"timestamp": "2026-05-18 12:58:52,564", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 660, "request_id": "eef75fec"}
+{"timestamp": "2026-05-18 12:58:52,565", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "eef75fec"}
+{"timestamp": "2026-05-18 12:59:28,623", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:59:28,649", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 12:59:28,649", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:00:36,770", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:00:36,794", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:00:36,795", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:00:36,856", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 547}
+{"timestamp": "2026-05-18 13:00:36,856", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 548}
+{"timestamp": "2026-05-18 13:00:56,218", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:00:56,242", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:00:56,242", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:00:56,310", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 547}
+{"timestamp": "2026-05-18 13:00:56,311", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 548}
+{"timestamp": "2026-05-18 13:01:03,248", "level": "INFO", "message": "用户问题: 帮我报修...", "module": "agent", "function": "chat_stream", "line": 658, "request_id": "6c0d5dd5"}
+{"timestamp": "2026-05-18 13:01:03,249", "level": "INFO", "message": "命中工单关键词: 报修", "module": "agent", "function": "route_tag", "line": 256, "request_id": "6c0d5dd5"}
+{"timestamp": "2026-05-18 13:01:03,249", "level": "INFO", "message": "路由结果: ticket", "module": "agent", "function": "chat_stream", "line": 660, "request_id": "6c0d5dd5"}
+{"timestamp": "2026-05-18 13:01:03,249", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.004s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "6c0d5dd5"}
+{"timestamp": "2026-05-18 13:41:37,564", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "e5f555f4"}
+{"timestamp": "2026-05-18 13:41:37,568", "level": "INFO", "message": "用户问题: 鸿蒙智慧屏的使用说明...", "module": "agent", "function": "chat_stream", "line": 658, "request_id": "ca47e1c3"}
+{"timestamp": "2026-05-18 13:41:37,568", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "ca47e1c3"}
+{"timestamp": "2026-05-18 13:41:38,420", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 660, "request_id": "ca47e1c3"}
+{"timestamp": "2026-05-18 13:41:38,421", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.853s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "ca47e1c3"}
+{"timestamp": "2026-05-18 13:41:38,421", "level": "ERROR", "message": "检索失败: name 'searsh_device' is not defined", "module": "agent", "function": "robust_search", "line": 626, "request_id": "ca47e1c3"}
+{"timestamp": "2026-05-18 13:42:11,335", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:42:11,368", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:42:11,369", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:42:11,448", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 547}
+{"timestamp": "2026-05-18 13:42:11,449", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 548}
+{"timestamp": "2026-05-18 13:42:23,377", "level": "INFO", "message": "用户问题: 鸿蒙智慧屏的使用说明...", "module": "agent", "function": "chat_stream", "line": 658, "request_id": "2e8c6d80"}
+{"timestamp": "2026-05-18 13:42:23,377", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "2e8c6d80"}
+{"timestamp": "2026-05-18 13:42:24,154", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 660, "request_id": "2e8c6d80"}
+{"timestamp": "2026-05-18 13:42:24,155", "level": "ERROR", "message": "检索失败: name 'searsh_device' is not defined", "module": "agent", "function": "robust_search", "line": 626, "request_id": "2e8c6d80"}
+{"timestamp": "2026-05-18 13:42:24,155", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.781s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 589, "request_id": "2e8c6d80"}
+{"timestamp": "2026-05-18 13:43:05,165", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:43:05,189", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:43:05,190", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:43:05,255", "level": "INFO", "message": "🚀 雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 541}
+{"timestamp": "2026-05-18 13:43:05,255", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 542}
+{"timestamp": "2026-05-18 13:43:12,638", "level": "INFO", "message": "用户问题: 鸿蒙智慧屏的使用说明...", "module": "agent", "function": "chat_stream", "line": 652, "request_id": "ff8c11c1"}
+{"timestamp": "2026-05-18 13:43:12,638", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "ff8c11c1"}
+{"timestamp": "2026-05-18 13:43:13,367", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 654, "request_id": "ff8c11c1"}
+{"timestamp": "2026-05-18 13:43:13,368", "level": "ERROR", "message": "检索失败: name 'searsh_device' is not defined", "module": "agent", "function": "robust_search", "line": 620, "request_id": "ff8c11c1"}
+{"timestamp": "2026-05-18 13:43:13,368", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.731s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 583, "request_id": "ff8c11c1"}
+{"timestamp": "2026-05-18 13:49:05,626", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:49:05,652", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:49:05,653", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 13:49:05,718", "level": "INFO", "message": "雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 529}
+{"timestamp": "2026-05-18 13:49:05,719", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 530}
+{"timestamp": "2026-05-18 13:49:12,426", "level": "INFO", "message": "用户问题: 鸿蒙智慧屏的使用说明...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "3233a507"}
+{"timestamp": "2026-05-18 13:49:12,426", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "3233a507"}
+{"timestamp": "2026-05-18 13:49:13,156", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "3233a507"}
+{"timestamp": "2026-05-18 13:49:13,157", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.733s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "3233a507"}
+{"timestamp": "2026-05-18 13:49:32,497", "level": "INFO", "message": "用户问题: 鸿蒙智慧屏...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "a849a50c"}
+{"timestamp": "2026-05-18 13:49:32,498", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "a849a50c"}
+{"timestamp": "2026-05-18 13:49:33,237", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "a849a50c"}
+{"timestamp": "2026-05-18 13:49:33,238", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.742s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "a849a50c"}
+{"timestamp": "2026-05-18 13:51:18,417", "level": "INFO", "message": "用户问题: 智享屏...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "2a8a0b73"}
+{"timestamp": "2026-05-18 13:51:18,417", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "2a8a0b73"}
+{"timestamp": "2026-05-18 13:51:18,418", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "2a8a0b73"}
+{"timestamp": "2026-05-18 13:51:36,570", "level": "INFO", "message": "用户问题: 智能音响...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "43c5cfe6"}
+{"timestamp": "2026-05-18 13:51:36,570", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "43c5cfe6"}
+{"timestamp": "2026-05-18 13:51:36,570", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "43c5cfe6"}
+{"timestamp": "2026-05-18 13:51:51,336", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "6963b09c"}
+{"timestamp": "2026-05-18 13:51:51,338", "level": "INFO", "message": "用户问题: 美视清...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "19254679"}
+{"timestamp": "2026-05-18 13:51:51,338", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "19254679"}
+{"timestamp": "2026-05-18 13:51:51,340", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "19254679"}
+{"timestamp": "2026-05-18 14:00:08,235", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:00:08,259", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:00:08,260", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:00:22,998", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:00:23,023", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:00:23,024", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:00:23,089", "level": "INFO", "message": "雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 529}
+{"timestamp": "2026-05-18 14:00:23,089", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 530}
+{"timestamp": "2026-05-18 14:00:41,784", "level": "INFO", "message": "用户问题: 美视清...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "82cbcfb9"}
+{"timestamp": "2026-05-18 14:00:41,784", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "82cbcfb9"}
+{"timestamp": "2026-05-18 14:00:41,786", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.003s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "82cbcfb9"}
+{"timestamp": "2026-05-18 14:00:49,420", "level": "INFO", "message": "用户问题: 美视清...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "318ae435"}
+{"timestamp": "2026-05-18 14:00:49,420", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "318ae435"}
+{"timestamp": "2026-05-18 14:00:49,420", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "318ae435"}
+{"timestamp": "2026-05-18 14:20:55,484", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:20:55,514", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:20:55,516", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:20:55,595", "level": "INFO", "message": "雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 529}
+{"timestamp": "2026-05-18 14:20:55,595", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 530}
+{"timestamp": "2026-05-18 14:32:27,070", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:32:27,098", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:32:27,099", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:32:27,166", "level": "INFO", "message": "雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 529}
+{"timestamp": "2026-05-18 14:32:27,166", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 530}
+{"timestamp": "2026-05-18 14:32:37,988", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "e0170da6"}
+{"timestamp": "2026-05-18 14:32:37,993", "level": "INFO", "message": "用户问题: 我的金运机顶盒连上电视后画面是黑的，雷石K歌打不开...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "11bbe06f"}
+{"timestamp": "2026-05-18 14:32:37,993", "level": "INFO", "message": "路由结果: composite", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "11bbe06f"}
+{"timestamp": "2026-05-18 14:32:37,995", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.004s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "11bbe06f"}
+{"timestamp": "2026-05-18 14:33:47,369", "level": "INFO", "message": "用户问题: 试了还是不行...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "3313ae67"}
+{"timestamp": "2026-05-18 14:33:47,369", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "3313ae67"}
+{"timestamp": "2026-05-18 14:33:48,086", "level": "INFO", "message": "路由结果: device", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "3313ae67"}
+{"timestamp": "2026-05-18 14:33:48,086", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.717s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "3313ae67"}
+{"timestamp": "2026-05-18 14:34:42,088", "level": "INFO", "message": "用户问题: 我的金运机顶盒连上电视后画面是黑的，雷石K歌打不开...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "56005416"}
+{"timestamp": "2026-05-18 14:34:42,088", "level": "INFO", "message": "路由结果: composite", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "56005416"}
+{"timestamp": "2026-05-18 14:34:42,088", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "56005416"}
+{"timestamp": "2026-05-18 14:37:05,650", "level": "INFO", "message": "用户问题: 推荐几首适合全家合唱的歌曲...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "9f4afe33"}
+{"timestamp": "2026-05-18 14:37:05,650", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "9f4afe33"}
+{"timestamp": "2026-05-18 14:37:05,651", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "9f4afe33"}
+{"timestamp": "2026-05-18 14:37:21,417", "level": "INFO", "message": "用户问题: 第一首谁唱的？...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "4f5c228d"}
+{"timestamp": "2026-05-18 14:37:21,417", "level": "INFO", "message": "关键词无匹配，调用大模型语义判断", "module": "agent", "function": "get_route_tag", "line": 304, "request_id": "4f5c228d"}
+{"timestamp": "2026-05-18 14:37:22,436", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "4f5c228d"}
+{"timestamp": "2026-05-18 14:37:22,436", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 1.021s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "4f5c228d"}
+{"timestamp": "2026-05-18 14:37:50,439", "level": "INFO", "message": "用户问题: 推荐几首适合全家合唱的歌曲...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "48a82b2c"}
+{"timestamp": "2026-05-18 14:37:50,439", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "48a82b2c"}
+{"timestamp": "2026-05-18 14:37:50,439", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "48a82b2c"}
+{"timestamp": "2026-05-18 14:38:40,667", "level": "INFO", "message": "用户问题: 你刚刚推荐的是什么歌...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "1b77bfe3"}
+{"timestamp": "2026-05-18 14:38:40,667", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "1b77bfe3"}
+{"timestamp": "2026-05-18 14:38:40,668", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "1b77bfe3"}
+{"timestamp": "2026-05-18 14:39:01,234", "level": "INFO", "message": "用户问题: 推荐张学友的歌...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "2711d7b4"}
+{"timestamp": "2026-05-18 14:39:01,234", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "2711d7b4"}
+{"timestamp": "2026-05-18 14:39:01,234", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "2711d7b4"}
+{"timestamp": "2026-05-18 14:39:20,040", "level": "INFO", "message": "用户问题: 我刚刚让你推荐谁的歌...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "533fb188"}
+{"timestamp": "2026-05-18 14:39:20,040", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "533fb188"}
+{"timestamp": "2026-05-18 14:39:20,042", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "533fb188"}
+{"timestamp": "2026-05-18 14:39:34,976", "level": "INFO", "message": "用户问题: 我刚刚叫你推荐谁的歌曲...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "77bcce2a"}
+{"timestamp": "2026-05-18 14:39:34,976", "level": "INFO", "message": "路由结果: song", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "77bcce2a"}
+{"timestamp": "2026-05-18 14:39:34,977", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "77bcce2a"}
+{"timestamp": "2026-05-18 14:40:14,231", "level": "INFO", "message": "用户问题: 华东地区Q1智能音响出货量怎么样？...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "55abc2b4"}
+{"timestamp": "2026-05-18 14:40:14,231", "level": "INFO", "message": "路由结果: composite", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "55abc2b4"}
+{"timestamp": "2026-05-18 14:40:14,232", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "55abc2b4"}
+{"timestamp": "2026-05-18 14:40:22,899", "level": "INFO", "message": "用户问题: 那华南地区呢...", "module": "agent", "function": "chat_stream", "line": 640, "request_id": "9a7943f8"}
+{"timestamp": "2026-05-18 14:40:22,899", "level": "INFO", "message": "路由结果: sale", "module": "agent", "function": "chat_stream", "line": 642, "request_id": "9a7943f8"}
+{"timestamp": "2026-05-18 14:40:22,900", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "9a7943f8"}
+{"timestamp": "2026-05-18 14:43:56,505", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:43:56,529", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:43:56,530", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:43:56,600", "level": "INFO", "message": "雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 529}
+{"timestamp": "2026-05-18 14:43:56,601", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 530}
+{"timestamp": "2026-05-18 14:44:07,051", "level": "INFO", "message": "请求完成: OPTIONS /chat/stream | 耗时: 0.000s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "bd235c8b"}
+{"timestamp": "2026-05-18 14:44:07,057", "level": "INFO", "message": "用户问题: 华东地区Q1智能音响出货量怎么样？...", "module": "agent", "function": "chat_stream", "line": 629, "request_id": "c8e6cca1"}
+{"timestamp": "2026-05-18 14:44:07,057", "level": "INFO", "message": "路由结果: composite", "module": "agent", "function": "chat_stream", "line": 631, "request_id": "c8e6cca1"}
+{"timestamp": "2026-05-18 14:44:07,058", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.004s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "c8e6cca1"}
+{"timestamp": "2026-05-18 14:44:19,912", "level": "INFO", "message": "用户问题: 华南地区呢...", "module": "agent", "function": "chat_stream", "line": 629, "request_id": "3fa325da"}
+{"timestamp": "2026-05-18 14:44:19,913", "level": "INFO", "message": "路由结果: sale", "module": "agent", "function": "chat_stream", "line": 631, "request_id": "3fa325da"}
+{"timestamp": "2026-05-18 14:44:19,913", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "3fa325da"}
+{"timestamp": "2026-05-18 14:46:17,936", "level": "INFO", "message": "用户问题: 美视清蓝牙连接投诉比较多，帮我整理故障排查步骤，顺便看看这款机型在华南区的当月出货趋势...", "module": "agent", "function": "chat_stream", "line": 629, "request_id": "a61193ff"}
+{"timestamp": "2026-05-18 14:46:17,936", "level": "INFO", "message": "路由结果: composite", "module": "agent", "function": "chat_stream", "line": 631, "request_id": "a61193ff"}
+{"timestamp": "2026-05-18 14:46:17,936", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.001s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "a61193ff"}
+{"timestamp": "2026-05-18 14:49:12,663", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:49:12,691", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:49:12,692", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 14:49:12,768", "level": "INFO", "message": "雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 529}
+{"timestamp": "2026-05-18 14:49:12,768", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 530}
+{"timestamp": "2026-05-18 14:49:30,545", "level": "INFO", "message": "用户问题: 我的美视清出问题了，请帮我报修...", "module": "agent", "function": "chat_stream", "line": 629, "request_id": "cdaf13a5"}
+{"timestamp": "2026-05-18 14:49:30,547", "level": "INFO", "message": "命中工单关键词: 报修", "module": "agent", "function": "route_tag", "line": 256, "request_id": "cdaf13a5"}
+{"timestamp": "2026-05-18 14:49:30,547", "level": "INFO", "message": "路由结果: ticket", "module": "agent", "function": "chat_stream", "line": 631, "request_id": "cdaf13a5"}
+{"timestamp": "2026-05-18 14:49:30,548", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.004s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "cdaf13a5"}
+{"timestamp": "2026-05-18 14:49:51,160", "level": "INFO", "message": "用户问题: 我的美视清出问题了，请帮我报修...", "module": "agent", "function": "chat_stream", "line": 629, "request_id": "938d4f49"}
+{"timestamp": "2026-05-18 14:49:51,160", "level": "INFO", "message": "命中工单关键词: 报修", "module": "agent", "function": "route_tag", "line": 256, "request_id": "938d4f49"}
+{"timestamp": "2026-05-18 14:49:51,160", "level": "INFO", "message": "路由结果: ticket", "module": "agent", "function": "chat_stream", "line": 631, "request_id": "938d4f49"}
+{"timestamp": "2026-05-18 14:49:51,161", "level": "INFO", "message": "请求完成: POST /chat/stream | 耗时: 0.002s | 状态: 200", "module": "agent", "function": "add_request_id", "line": 571, "request_id": "938d4f49"}
+{"timestamp": "2026-05-18 15:08:50,329", "level": "INFO", "message": "加载已有向量库: device_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 15:08:50,363", "level": "INFO", "message": "加载已有向量库: song_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 15:08:50,364", "level": "INFO", "message": "加载已有向量库: sales_kb", "module": "agent", "function": "load_kb", "line": 164}
+{"timestamp": "2026-05-18 15:08:50,437", "level": "INFO", "message": "雷石K歌智能助手启动中...", "module": "agent", "function": "lifespan", "line": 529}
+{"timestamp": "2026-05-18 15:08:50,438", "level": "INFO", "message": "向量库状态: device=True, song=True, sale=True", "module": "agent", "function": "lifespan", "line": 530}
